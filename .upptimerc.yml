@@ -17,7 +17,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.goflott.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://status.goflott.com/logo.svg
   name: Flott Status
   introTitle: "**Flott** Transforming Transportation in Südtirol."
   introMessage: By connecting passengers with reliable drivers and optimizing routes, we're making transportation more efficient, accessible, and environmentally friendly for everyone.
