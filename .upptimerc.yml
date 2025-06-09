@@ -1,6 +1,6 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: Alp-Innovations # Your GitHub organization or username, where this repository lives
+repo: goflott-com-status # The name of this repository
 
 sites:
   - name: Flott
@@ -16,9 +16,10 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.goflott.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://status.goflott.com/logo.svg
-  name: Flott Status
+  name: Flott System Status
+  logoUrl: https://status.goflott.com/logo.png
+  favicon: https://status.goflott.com/logo.png
+  faviconSvg: https://status.goflott.com/logo.svg
   introTitle: "**Flott** Transforming Transportation in Südtirol."
   introMessage: By connecting passengers with reliable drivers and optimizing routes, we're making transportation more efficient, accessible, and environmentally friendly for everyone.
   navbar:
