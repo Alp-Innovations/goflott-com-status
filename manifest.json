@@ -1,8 +1,8 @@
 {
   "background_color": "#ffffff",
-  "theme_color": "#ef8202ff",
-  "name": "Flott System Status",
-  "short_name": "Flott Status",
+  "theme_color": "#333333",
+  "name": "Upptime",
+  "short_name": "Upptime",
   "display": "minimal-ui",
   "start_url": "/",
   "icons": [
