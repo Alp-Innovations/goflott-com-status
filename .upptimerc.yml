@@ -7,6 +7,8 @@ sites:
     url: https://goflott.com
   - name: Flott Web App
     url: https://app.goflott.com
+  - name: Flott API
+    url: https://api.goflott.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
