@@ -8,7 +8,9 @@ sites:
   - name: Flott Web App
     url: https://app.goflott.com
   - name: Flott API
-    url: https://api.goflott.com
+    url: https://api.goflott.com/dispatch/v1/company/
+    headers:
+      - "Authorization: $FLOTT_API_KEY"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -22,8 +24,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Flott
+      href: https://goflott.com
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
