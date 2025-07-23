@@ -1,7 +1,7 @@
 url: https://api.goflott.com/dispatch/v1/company/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-07-23T14:59:03.086Z
+status: up
+code: 200
+responseTime: 561
+lastUpdated: 2025-07-23T15:42:13.119Z
 startTime: 2025-06-09T11:51:00.404Z
 generator: Upptime <https://github.com/upptime/upptime>
