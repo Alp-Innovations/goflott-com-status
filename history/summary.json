@@ -22,19 +22,19 @@
     "url": "https://app.goflott.com",
     "icon": "https://icons.duckduckgo.com/ip3/app.goflott.com.ico",
     "slug": "flott-web-app",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "91.42%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "91.38%",
     "uptimeWeek": "98.77%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "99.81%",
+    "uptimeYear": "99.80%",
     "time": 955,
     "timeDay": 3169,
     "timeWeek": 1708,
     "timeMonth": 1079,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2025-07-23": 123
+      "2025-07-23": 124
     }
   },
   {
@@ -42,7 +42,7 @@
     "url": "https://api.goflott.com/dispatch/v1/company/",
     "icon": "https://icons.duckduckgo.com/ip3/api.goflott.com.ico",
     "slug": "flott-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "93.51%",
     "uptimeWeek": "99.07%",
