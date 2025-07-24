@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 959,
-    "timeDay": 1187,
-    "timeWeek": 1167,
-    "timeMonth": 1000,
-    "timeYear": 959,
+    "time": 968,
+    "timeDay": 1384,
+    "timeWeek": 1248,
+    "timeMonth": 1023,
+    "timeYear": 968,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.goflott.com.ico",
     "slug": "flott-web-app",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "89.17%",
-    "uptimeWeek": "98.45%",
-    "uptimeMonth": "99.64%",
-    "uptimeYear": "99.75%",
-    "time": 946,
-    "timeDay": 2350,
-    "timeWeek": 1542,
-    "timeMonth": 1058,
-    "timeYear": 946,
+    "uptime": "99.78%",
+    "uptimeDay": "90.00%",
+    "uptimeWeek": "98.57%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.78%",
+    "time": 940,
+    "timeDay": 2344,
+    "timeWeek": 1537,
+    "timeMonth": 1055,
+    "timeYear": 940,
     "dailyMinutesDown": {
-      "2025-07-23": 155
+      "2025-07-23": 143
     }
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "98.64%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.73%",
-    "time": 664,
-    "timeDay": 1363,
-    "timeWeek": 900,
-    "timeMonth": 684,
-    "timeYear": 664,
+    "time": 661,
+    "timeDay": 1340,
+    "timeWeek": 891,
+    "timeMonth": 683,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2025-07-23": 136,
       "2025-07-09": 38
